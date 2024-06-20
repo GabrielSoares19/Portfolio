@@ -1,0 +1,104 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    color: #333;
+    
+}
+
+header {
+    background-color: #4238cf;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+    
+}
+#habilidades ul li{
+    color: white;
+
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+}
+
+.projeto {
+    margin-bottom: 20px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.projeto img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.projeto a {
+    display: block;
+    text-align: center;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+p{
+color: white;
+
+}
+.projeto p{
+    color: #000;
+
+}
+#contato a{
+    color: #4238cf;
+
+}
+footer{
+    background-color: #4238cf;
+
+}
